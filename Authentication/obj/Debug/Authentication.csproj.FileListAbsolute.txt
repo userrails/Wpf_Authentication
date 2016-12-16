@@ -1,0 +1,13 @@
+c:\users\shivrajbadu\documents\visual studio 2012\Projects\Authentication\Authentication\bin\Debug\Authentication.exe.config
+c:\users\shivrajbadu\documents\visual studio 2012\Projects\Authentication\Authentication\bin\Debug\Authentication.exe
+c:\users\shivrajbadu\documents\visual studio 2012\Projects\Authentication\Authentication\bin\Debug\Authentication.pdb
+c:\users\shivrajbadu\documents\visual studio 2012\Projects\Authentication\Authentication\obj\Debug\MainWindow.baml
+c:\users\shivrajbadu\documents\visual studio 2012\Projects\Authentication\Authentication\obj\Debug\MainWindow.g.cs
+c:\users\shivrajbadu\documents\visual studio 2012\Projects\Authentication\Authentication\obj\Debug\App.g.cs
+c:\users\shivrajbadu\documents\visual studio 2012\Projects\Authentication\Authentication\obj\Debug\Authentication_MarkupCompile.cache
+c:\users\shivrajbadu\documents\visual studio 2012\Projects\Authentication\Authentication\obj\Debug\Authentication.g.resources
+c:\users\shivrajbadu\documents\visual studio 2012\Projects\Authentication\Authentication\obj\Debug\Authentication.Properties.Resources.resources
+c:\users\shivrajbadu\documents\visual studio 2012\Projects\Authentication\Authentication\obj\Debug\Authentication.csproj.GenerateResource.Cache
+c:\users\shivrajbadu\documents\visual studio 2012\Projects\Authentication\Authentication\obj\Debug\Authentication.exe
+c:\users\shivrajbadu\documents\visual studio 2012\Projects\Authentication\Authentication\obj\Debug\Authentication.pdb
+C:\Users\shivrajbadu\documents\visual studio 2012\Projects\Authentication\Authentication\obj\Debug\Authentication.csprojResolveAssemblyReference.cache
