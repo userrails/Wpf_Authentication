@@ -56,9 +56,10 @@ namespace Authentication
                     {
                        // MessageBox.Show("You are authenticated!!");
 
-                        
+                        this.Hide();
+                        con.Close();
                         Employee empForm = new Employee();
-                        App.Current.MainWindow.Close();
+                        //App.Current.MainWindow.Close();
                         empForm.ShowDialog();
                         
                         
@@ -72,10 +73,6 @@ namespace Authentication
                 catch (Exception ex)
                 {
                     MessageBox.Show(ex.ToString());
-                }
-                finally
-                {
-                    con.Close();
                 }
             }
         }
