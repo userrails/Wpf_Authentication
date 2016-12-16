@@ -39,9 +39,6 @@ namespace Authentication
                     con.Open();
                     CmdString = "SELECT * FROM Login where Username='" + txtUsername.Text + "' and Password='" + txtPassword.Password + "' and Role='" + txtRole.Text + "'";
                     SqlCommand cmd = new SqlCommand(CmdString, con);
-                    //SqlDataAdapter sda = new SqlDataAdapter(cmd);
-                    //DataTable dt = new DataTable();
-                    //sda.Fill(dt);
                     cmd.ExecuteNonQuery();
                     SqlDataReader dr = cmd.ExecuteReader();
 
