@@ -37,7 +37,7 @@ namespace Authentication
                 try
                 {
                     con.Open();
-                    CmdString = "SELECT * FROM Login where Username='" + txtUsername.Text + "' and Password='" + txtPassword.Password + "' and Role='" + txtRole.Text + "'";
+                    CmdString = "SELECT * FROM Login where Username='" + txtUsername.Text + "' and Password='" + txtPassword.Password + "' and Role='" + comboRole.Text + "'";
                     SqlCommand cmd = new SqlCommand(CmdString, con);
                     cmd.ExecuteNonQuery();
                     SqlDataReader dr = cmd.ExecuteReader();
@@ -61,8 +61,6 @@ namespace Authentication
                         Employee empForm = new Employee();
                         //App.Current.MainWindow.Close();
                         empForm.ShowDialog();
-                        
-                        
                     }
                     if (count < 1)
                     {
