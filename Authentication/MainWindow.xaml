@@ -7,9 +7,9 @@
         <Label Content="Password" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,42,0,0"/>
         <TextBox x:Name="txtUsername" HorizontalAlignment="Left" Height="23" Margin="100,4,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
         <PasswordBox x:Name="txtPassword" HorizontalAlignment="Left" Margin="100,41,0,0" VerticalAlignment="Top" Width="120" Height="27"/>
+        <TextBox x:Name="txtRole" HorizontalAlignment="Left" Height="23" Margin="100,76,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
         <Button x:Name="btnLogin" Content="Login" HorizontalAlignment="Left" Margin="10,124,0,0" VerticalAlignment="Top" Width="89" Height="24" Click="btnLogin_Click"/>
         <Button x:Name="btnExit" Content="Exit" HorizontalAlignment="Left" Margin="131,124,0,0" VerticalAlignment="Top" Width="89" Height="24" Click="btnExit_Click"/>
         <Label Content="Role" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,73,0,0"/>
-        <TextBox x:Name="txtRole" HorizontalAlignment="Left" Height="23" Margin="100,76,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
     </Grid>
 </Window>

@@ -54,7 +54,14 @@ namespace Authentication
                     }
                     if (count == 1)
                     {
-                        MessageBox.Show("You are authenticated!!");
+                       // MessageBox.Show("You are authenticated!!");
+
+                        
+                        Employee empForm = new Employee();
+                        App.Current.MainWindow.Close();
+                        empForm.ShowDialog();
+                        
+                        
                     }
                     if (count < 1)
                     {

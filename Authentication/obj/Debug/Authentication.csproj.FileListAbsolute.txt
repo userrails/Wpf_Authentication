@@ -11,3 +11,5 @@ c:\users\shivrajbadu\documents\visual studio 2012\Projects\Authentication\Authen
 c:\users\shivrajbadu\documents\visual studio 2012\Projects\Authentication\Authentication\obj\Debug\Authentication.exe
 c:\users\shivrajbadu\documents\visual studio 2012\Projects\Authentication\Authentication\obj\Debug\Authentication.pdb
 C:\Users\shivrajbadu\documents\visual studio 2012\Projects\Authentication\Authentication\obj\Debug\Authentication.csprojResolveAssemblyReference.cache
+C:\Users\shivrajbadu\documents\visual studio 2012\Projects\Authentication\Authentication\obj\Debug\Employee.baml
+C:\Users\shivrajbadu\documents\visual studio 2012\Projects\Authentication\Authentication\obj\Debug\Employee.g.cs
